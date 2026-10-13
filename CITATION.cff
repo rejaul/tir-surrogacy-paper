@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Time in range as a surrogate for HbA1c and for microvascular outcomes"
+message: "If you use this software or data, please cite the article and this repository."
+type: software
+authors:
+  - given-names: Rejaul
+    family-names: Karim
+    affiliation: "Independent Researcher"
+  - given-names: Sumaeya
+    family-names: Sultana
+    affiliation: "Cheeloo College of Medicine, Shandong University, Jinan, China"
+abstract: >-
+  Analysis code and derived data for a two-stage meta-analysis of 21 randomised
+  trials evaluating time in range as a trial-level surrogate for HbA1c, and a
+  published-evidence surrogacy chain linking time in range to microvascular
+  outcomes.
+keywords:
+  - continuous glucose monitoring
+  - time in range
+  - surrogate endpoint
+  - meta-analysis
+  - diabetes
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+# repository-code: add the URL once the repository is created (see README, "Publishing this repository")
+version: 1.0.0
+date-released: "2026-10-05"
